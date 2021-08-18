@@ -35,7 +35,10 @@
 
 ## keep track of example 
 
-
+remote -v 
 ````
 git remote set-url origin git@github.com:amine123ait/learn_git.git
 ````
+```
+echo "FILE OR DIRE THAT WELL BE IGNORED AND NOT CHECK IN TO GITHUB REPO" > .gitignore
+```
